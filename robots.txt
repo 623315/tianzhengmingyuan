@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://623315.github.io/tianzhengmingyuan/sitemap.xml
