@@ -1,5 +1,7 @@
 # 天正明远 · AI 就业培训官网
 
+线上地址：**https://623315.github.io/tianzhengmingyuan/**
+
 纯静态网站，无需构建即可打开 `index.html`。
 
 ## 页面
@@ -22,6 +24,8 @@
 当前版本部署在 GitHub Pages，`main` 分支根目录。更新文件后提交并推送即可自动发布。
 
 也可以把本目录直接上传到 Cloudflare Pages、Netlify 或任意静态托管服务。
+
+如需绑定公司域名（例如 `aigc.ttx.ai` 的子域名），在 GitHub Pages 设置 Custom domain，或改部署到 Cloudflare Pages 后绑定均可。
 
 ## 说明
 
